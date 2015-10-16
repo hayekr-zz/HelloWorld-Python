@@ -1,3 +1,5 @@
 __author__ = 'Robert Hayek'
-print "Salve, Mundi!"
+def sayHi():
+    print "Salve, Mundi!" #in latin means HELLO, WORLD!
 
+sayHi()
