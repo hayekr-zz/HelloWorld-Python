@@ -1,3 +1,3 @@
 __author__ = 'Robert Hayek'
-print "Salve, Mundi!"
+print "Witaj, Swiecie!"
 
